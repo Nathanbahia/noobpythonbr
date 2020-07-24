@@ -1,6 +1,6 @@
 import os
 from time import sleep
-from random import randint, sample, choice
+from random import randint, sample
 
 class Guerreiro:
 	def __init__(self, nome):
